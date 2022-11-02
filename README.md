@@ -5,7 +5,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Welcome+to+my+profile+!+%F0%9F%8E%89;I'm+a+computer+science+student+%F0%9F%96%A5%EF%B8%8F%2C;I'm+a+competitive+programmer+%F0%9F%A4%93%2C;I'm+working+on+a+Deep+Learning+based+project+%F0%9F%A4%96%2C;I+%E2%9D%A4%EF%B8%8F+Python+%F0%9F%90%8D;And+C-like+languages+%F0%9F%90%82." alt="Typing SVG" /></a>
 <hr>
-<img align="left" width="225" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
+<img align="left" width="200" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
 
 ```python3
 class LuisCamara:
