@@ -31,6 +31,7 @@ class LuisCamara:
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
+<code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"</code>
@@ -50,7 +51,6 @@ class LuisCamara:
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg"></code>
   <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
   <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
-  <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
 
 
 </code>
@@ -76,9 +76,6 @@ class LuisCamara:
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"></code>
   <code><img height="30" width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"></code>
-  <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></code>
-
-
 </code>
 </p>
 
@@ -90,19 +87,10 @@ class LuisCamara:
 </p>
 
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+ ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=LuisEduardoF&show_icons=true&theme=algolia) ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardoF&theme=algolia) <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoF&theme=algolia&layout=compact" alt="candida18"  /></p>
 
 
 
@@ -111,30 +99,26 @@ class LuisCamara:
   <tr>
   <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
-
+## 🤝 Let's Connect
+<p align="center">
+ <a href="mailto: luisefcamara@gmail.com"><img width="100" heigth="100" src="https://cdn0.iconfinder.com/data/icons/picons-social/57/67-gmail-256.png" alt="Email"/></a>
+ <a href=""><img width="100" heigth="100" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" alt="Linkedin"/></a>
+ <a href="https://telegram.me/Duduek"><img width="100" heigth="100" src="https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-4/256/telegram-logo-fill-256.png" alt="Telegram"/></a>
+</p>
+<p align="center">
+<a href="https://www.instagram.com/dudu.cmara/"><img width="100" heigth="100" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png" alt="Instagram"/></a>
+<a href="https://discordapp.com/users/382650860766756876"><img width="100" heigth="100" src="https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/640/discord-256.png" alt="Discord"/></a>
+<a href="https://api.whatsapp.com/send?phone=5527999170456"><img width="100" heigth="100" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/23-whatsapp-2-256.png" alt="WhatsApp"/></a>
+</p>
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## 📚 Famous Quotes
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
+<p> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” ― Alan Turing </p>
+<p> “Your best and wisest refuge from all troubles is in your science.” ― Ada Lovelace </p>
+<p> “Science is what we understand well enough to explain to a computer; art is everything else.” ― Donald E. Knuth </p>
+<p> “If all you have is a hammer, everything seems to be a nail.” ― Robert Sedgewick </p>
+   </td> 
   </tr>
 </table>
-
-------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
-
-
-
-
