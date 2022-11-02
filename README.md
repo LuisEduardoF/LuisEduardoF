@@ -12,7 +12,7 @@ class LuisCamara:
   name = "Luís Eduardo Freire da Câmara"
   graduation = "Computer Science from University Federal of Espirito Santo"
   acknowledgements = ["Machine Learning", "Artificial Intelligence", 
-                           "Neural Networks", "Data Science"]
+                      "Neural Networks", "Data Science"]
   learning = ["Deep learning"]
   languages = ["Python", "C++", "C", "Java", "Go", "Haskell", "JavaScript"]
   loves = ["🐶", "🐱", "Competitive Programming", "Learning new languages", 
