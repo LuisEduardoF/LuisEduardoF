@@ -10,7 +10,7 @@
 ```python3
 class LuisCamara:
   name = "Luís Eduardo Freire da Câmara"
-  graduation = "Computer Science from University Federal of Espirito Santo"
+  graduation = "Computer Science at University Federal of Espirito Santo"
   acknowledgements = ["Machine Learning", "Artificial Intelligence", 
                       "Neural Networks", "Data Science"]
   learning = ["Deep learning"]
