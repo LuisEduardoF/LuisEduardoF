@@ -90,7 +90,7 @@ class LuisCamara:
 ## 📈 GitHub Stats
 
 
- ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=LuisEduardoF&show_icons=true&theme=algolia) ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardoF&theme=algolia) <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoF&theme=algolia&layout=compact" alt="candida18"  /></p>
+<p align="center"><img width="425" src="https://github-readme-stats.vercel.app/api?username=LuisEduardoF&show_icons=true&theme=algolia&layout=compact" alt="candida18"  /> <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardoF&theme=algolia" alt="candida18"  /></p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoF&theme=algolia&layout=compact" alt="candida18"  /></p>
 
 
 
