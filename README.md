@@ -101,7 +101,7 @@ class LuisCamara:
 ## 🤝 Let's Connect
 <p align="center">
  <a href="mailto: luisefcamara@gmail.com"><img width="100" heigth="100" src="https://cdn0.iconfinder.com/data/icons/picons-social/57/67-gmail-256.png" alt="Email"/></a>
- <a href=""><img width="100" heigth="100" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" alt="Linkedin"/></a>
+ <a href="https://www.linkedin.com/in/luís-câmara-8576b3289/"><img width="100" heigth="100" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" alt="Linkedin"/></a>
  <a href="https://telegram.me/Duduek"><img width="100" heigth="100" src="https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-4/256/telegram-logo-fill-256.png" alt="Telegram"/></a>
 </p>
 <p align="center">
