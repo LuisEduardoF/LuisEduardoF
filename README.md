@@ -13,7 +13,7 @@ class LuisCamara:
   graduation = "Computer Science at University Federal of Espirito Santo"
   acknowledgements = ["Machine Learning", "Artificial Intelligence", 
                       "Neural Networks", "Data Science"]
-  learning = ["Deep learning"]
+  learning = ["Deep learning", "LLM"]
   languages = ["Python", "C++", "C", "Java", "Go", "Haskell", "JavaScript"]
   loves = ["🐶", "🐱", "Competitive Programming", "Learning new languages", 
            "Algorithms optimization"]
