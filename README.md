@@ -83,6 +83,7 @@ class LuisCamara:
 
 ### 👨🏽‍💻 Workspace
 <p>
+    <code><img height="30" src="https://img.utdstc.com/icon/06f/a39/06fa39301c97531152761a4d780a1fedcdaec6b55ff08f5327eba2ff19cdd9bb:200"></code>
     <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
     <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 </code>
