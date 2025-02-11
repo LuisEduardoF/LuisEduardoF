@@ -1,4 +1,4 @@
-# Hi, I'm Luís Câmara!
+# Hey there! I'm Luis Camara!
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
 
 <a></a>
@@ -20,6 +20,16 @@ class LuisCamara:
 ```
 <hr>
 
+## 👨‍🔧 Current Tech Stack
+<p>
+ <code><img height="30" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494"></code>
+ <code><img height="30" src="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1720244492"></code>
+ <code><img height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/dbrx-color.png"></code>
+ <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"></code>
+  <code><img height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg"></code>
+ <code><img height="30" src="https://www.stonebranch.com/_assets/928034e7efd7eb89f584f5d2807f9f72/Images/Logos/sb-logo-stonebranch.svg"></code>
+ </code>
+</p>
 
 ## 🛠️ My Favorite Tools
 
@@ -45,8 +55,10 @@ class LuisCamara:
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
+ <code><img height="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/dbrx-color.png"></code>
   <code><img height="30" src="https://assets-global.website-files.com/6203b6d57823100847efd9b1/65f41595d37f53f717dd1f69_langchain%20icon.png"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"></code>
+ <code><img height="30" src="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1720244492"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"></code>
   <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
@@ -54,15 +66,17 @@ class LuisCamara:
   <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
   <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachekafka.svg"></code>
+  <code><img height="30" src="https://www.stonebranch.com/_assets/928034e7efd7eb89f584f5d2807f9f72/Images/Logos/sb-logo-stonebranch.svg"></code>
 </code>
 </p>
 
 ### 🗄️ Databases
 
 <p>
+ <code><img height="30" src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494"></code>
+ <code><img height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></code>
-  <code><img height="30" src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
 </code>
 </p>
@@ -75,7 +89,6 @@ class LuisCamara:
   <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"></code>
   <code><img height="30" width="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"></code>
 </code>
@@ -92,8 +105,28 @@ class LuisCamara:
 
 ## 📈 GitHub Stats
 
-
-<p align="center"><img width="400" src="https://github-readme-stats.vercel.app/api?username=LuisEduardoF&show_icons=true&theme=algolia&layout=compact" alt="candida18"  /> <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardoF&theme=algolia" alt="candida18"  /></p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEduardoF&theme=algolia&layout=compact" alt="candida18"  /></p>
+<p align="center">
+  <img 
+    width="400" 
+    style="border: 2px solid white;" 
+    src="https://github-readme-stats.vercel.app/api?username=LuisEduardoF&show_icons=true&theme=algolia&layout=compact" 
+    alt="candida18"  
+  /> 
+  <img 
+    width="425" 
+    style="border: 2px solid white;" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LuisEduardoF&theme=algolia" 
+    alt="candida18"  
+  />
+</p> 
+<p align="center">
+  <img 
+    width="832"
+    style="border: 10px solid white;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisEduardoF&show_icons=true&theme=algolia&layout=compact" 
+    alt="candida18"  
+  />
+</p>
 
 
 
