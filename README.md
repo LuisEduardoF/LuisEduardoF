@@ -156,7 +156,7 @@ class LuisCamara:
 <p> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” ― Alan Turing </p>
 <p> “Your best and wisest refuge from all troubles is in your science.” ― Ada Lovelace </p>
 <p> “Science is what we understand well enough to explain to a computer; art is everything else.” ― Donald E. Knuth </p>
-<p> “If all you have is a hammer, everything seems to be a nail.” ― Robert Sedgewick </p>
+<p> “If all you have is a hammer, everything seems to be a nail.” ― Abraham Maslow </p>
    </td> 
   </tr>
 </table>
